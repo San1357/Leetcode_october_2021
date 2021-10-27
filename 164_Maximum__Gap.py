@@ -7,6 +7,8 @@
 
 # Approach 2 : by Radix sort 
             #  (sort the array using radix sorting, then iterate the sorted array & then find the max difference of successive elements)
+            
+# time : O(n)
 
 
 
